@@ -1,0 +1,39 @@
+*{
+    background-color: black;
+    color: white;
+}
+.main-text{
+font-size: 66px;
+font-weight: bold;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-shadow: 6px 3px rgb(48, 48, 48);
+
+}
+h1 span{
+    color: red;
+}
+.card img{
+    height: 250;
+}
+.carousel-item img{
+    width: 100%;
+    height: 600px;
+
+}
+.in{
+    height: 400px;
+    background: url(images/Camaro-22.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bilgi{
+    width: 22rem;
+}
+.footeralt ul li{
+    list-style: none;
+
+}
+.footerimg{
+    width: 80px;
+    height: 80px;
+}
